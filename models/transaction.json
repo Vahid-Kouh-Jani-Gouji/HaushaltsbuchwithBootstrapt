@@ -1,0 +1,13 @@
+{
+          "id":1 ,
+          "id_account":1,
+          "id_user":1 ,
+          "category":"home",
+          "debit":"true",
+          "credit":"false",
+          "amount":200 ,
+          "day":1,
+          "mounth":1,
+          "year":2021
+                   
+}
